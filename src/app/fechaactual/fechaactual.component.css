@@ -1,0 +1,12 @@
+.encabezado {
+  text-align: center;
+  color: blueviolet;
+  font-size: 24px; /* Tamaño de la fuente */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
+
+.fecha {
+  font-weight: bold; /* Texto en negrita */
+  font-size: 20px; /* Tamaño de la fuente */
+  color: green; /* Color del texto */
+}

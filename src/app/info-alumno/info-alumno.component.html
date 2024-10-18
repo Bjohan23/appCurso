@@ -1,0 +1,8 @@
+<div class="container">
+  <h2>Información de Alumnos</h2>
+  <ul>
+    <li *ngFor="let alumno of alumnos">
+      {{ alumno.id }} - {{ alumno.nombre }} {{ alumno.apellidos }} ({{ alumno.ciudad }})
+    </li>
+  </ul>
+</div>
